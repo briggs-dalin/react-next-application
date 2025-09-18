@@ -1,8 +1,5 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Login',
+  title: 'Customers - Dashboard',
 };
-export default function Page() {
-  return <p>Customer Page</p>;
-}
